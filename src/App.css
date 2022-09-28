@@ -39,6 +39,27 @@
   color: white;
 }
 
+.Socials {
+  background-color: #161619;
+  Width: 317px;
+  position: relative;
+  left: 312px;
+}
+
+.Interests {
+  font-size: 16px;
+  display: flex;
+  padding-top: 20px;
+  padding-left: 36px;
+}
+
+.interestP {
+  font-size: 10.24px;
+  padding-left: 36px;
+  padding-right: 34px
+}
+
+
 .OtherButton {
   display: inline-block;
 }
