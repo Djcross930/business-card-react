@@ -2,6 +2,26 @@
   text-align: center;
 }
 
+.infoHead--one {
+  font-size: 25px;
+  padding-top: 21px;
+  margin-bottom: 0px;
+}
+
+.infoTwo {
+  color: #F3BF99;
+  /* padding-top: 6px; */
+}
+
+
+.mainImage {
+  width: 317px;
+  height: 317px;
+  padding-top: 44px;
+  /* padding-left: 116px;
+  padding-right: 117px; */
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -32,6 +52,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
