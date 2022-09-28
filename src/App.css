@@ -44,6 +44,26 @@
   Width: 317px;
   position: relative;
   left: 312px;
+  height: 64px;
+}
+
+.SocialOne {
+  padding-top: 19px;
+  padding-right: 20px
+}
+
+.SocialTwo {
+  padding-top: 19px;
+  padding-right: 24px;
+}
+
+.SocialThree {
+  padding-top: 19px;
+  padding-right: 23.5px;
+}
+
+.SocialFour {
+  padding-top: 19px;
 }
 
 .Interests {
