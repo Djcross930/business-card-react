@@ -3,10 +3,10 @@ import MainImage from './components/Image.js'
 import MyInfo from './components/MyInfo.js'
 function App() {
   return (
-    <div className="App">
+    <div className="topApp">
       <MainImage />
       <MyInfo />
-    </div>
+    </div >
   );
 }
 

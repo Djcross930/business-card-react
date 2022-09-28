@@ -1,12 +1,58 @@
-.App {
+.topApp {
   text-align: center;
+  background-color: #23252C;
 }
 
 .infoHead--one {
   font-size: 25px;
   padding-top: 21px;
   margin-bottom: 0px;
+  color: white;
 }
+
+.website {
+  color: white;
+  font-size: 10.24px;
+  line-height: 0%;
+}
+
+.LinkedButton {
+  display: flex;
+  padding-left: 35px;
+  float: left;
+}
+
+.innerAbout {
+  font-size: 16px;
+  display: flex;
+  padding-top: 33px;
+  padding-left: 36px;
+}
+
+.innerP {
+  font-size: 10.24px;
+  padding-left: 36px;
+  padding-right: 34px
+}
+
+.AboutMe {
+  color: white;
+}
+
+.OtherButton {
+  display: inline-block;
+}
+
+.afterImage {
+  text-align: center;
+  background-color: #1A1B21;
+  Width: 317px;
+  Height: 399px;
+  position: relative;
+  left: 312px;
+}
+
+
 
 .infoTwo {
   color: #F3BF99;
